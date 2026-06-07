@@ -18,6 +18,6 @@ Olá! Sou estudante da 3ª Série do Ensino Médio no SESI SENAI de Referência 
 
 ## 📬 Contato
 * **E-mail:** [henriquekohler64@gmail.com]
-* **GitHub:** [github.com/HenriqueKohler]
+* **GitHub:** [https://github.com/henriquekohler-cmyk/henriquekohler-cmyk)]
 * **Portfólio:** [https://sites.google.com/estudante.sesisenai.org.br/portfolio-henrique-jean-kohler/in%C3%ADcio]
 * **Linkedin:** [www.linkedin.com/in/henrique-kohler-605857260]
