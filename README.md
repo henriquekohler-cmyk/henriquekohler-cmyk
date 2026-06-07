@@ -1,6 +1,6 @@
 # Henrique Jean Köhler
 
-Olá! Sou estudante da 3ª Série do Ensino Médio no SESI SENAI de Referência em Desenvolvimento de Sistemas e tenho grande interesse no desenvolvimento Front-End e Back-End.
+Olá! Sou estudante da 3ª Série do Ensino Médio no SESI SENAI de Referência. Atualmente em Joinville, SC, Cursando Desenvolvimento de Sistemas e tenho grande interesse no desenvolvimento Front-End e Back-End.
 
 > "Sem disciplina, o talento não serve pra nada."
 
