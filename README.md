@@ -22,7 +22,7 @@ Olá! Sou estudante da 3ª Série do Ensino Médio no SESI SENAI de Referência.
 * **Ambientes de Desenvolvimento:** Visual Studio Code (VS Code);
 * **Sistemas Operacionais & Terminais:** Windows, Terminal Linux/Bash básico.
 
-## 📬 Meus Contatos
+## ✉️ Meus Contatos
 
 * **E-mail:** [henriquekohler64@gmail.com]
 * **GitHub:** [https://github.com/henriquekohler-cmyk/henriquekohler-cmyk)]
