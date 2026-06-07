@@ -1,22 +1,24 @@
 # Henrique Jean Köhler
 
-Olá! Sou estudante da 3ª Série do Ensino Médio no SESI SENAI de Referência. Atualmente em Joinville, SC, Cursando Desenvolvimento de Sistemas e tenho grande interesse no desenvolvimento Front-End e Back-End.
+Olá! Sou estudante da 3ª Série do Ensino Médio no SESI SENAI de Referência. Atualmente em Joinville, SC. Cursando Desenvolvimento de Sistemas e tenho grande interesse no desenvolvimento Front-End e Back-End.
 
 > "Sem disciplina, o talento não serve pra nada."
 
 ---
 
 ## 🚀 O que estou aprendendo agora
-* Desenvolvimento de Sistemas focado em Front-End e Back-End (Full Stack)
-* Resolução de problemas complexos e lógica de programação
-* Gestão de projetos de software e adaptabilidade no ambiente tecnológico
+* Desenvolvimento de Sistemas focado em Front-End e Back-End (Full Stack)[cite: 1]
+* Construção de interfaces web modernas, dinâmicas e responsivas[cite: 1]
+* Lógica de programação aplicada e estruturas de dados essenciais[cite: 1]
+* Princípios de código limpo (Clean Code) e boas práticas de desenvolvimento[cite: 1]
+* Gestão de projetos de software através de metodologias ágeis[cite: 1]
 
 ## 🛠️ Tecnologias
 * **Linguagens de Programação:** HTML, CSS, JavaScript
 * **Ferramentas & Controle de Versão:** Git, GitHub
 * **Ambientes de Desenvolvimento (IDEs):** Visual Studio Code (VS Code)
 
-## 📬 Contato
+## 📬 Meus Contatos
 * **E-mail:** [henriquekohler64@gmail.com]
 * **GitHub:** [https://github.com/henriquekohler-cmyk/henriquekohler-cmyk)]
 * **Portfólio:** [https://sites.google.com/estudante.sesisenai.org.br/portfolio-henrique-jean-kohler/in%C3%ADcio]
