@@ -6,7 +6,7 @@ Olá! Sou estudante da 3ª Série do Ensino Médio no SESI SENAI de Referência.
 
 ---
 
-## Atividades e Aprendizado Atual
+## 🔹 Atividades e Aprendizado Atual
 
 * Desenvolvimento de Sistemas focado em Front-End e Back-End (Full Stack);
 * Construção de interfaces web modernas, dinâmicas e responsivas;
@@ -14,7 +14,7 @@ Olá! Sou estudante da 3ª Série do Ensino Médio no SESI SENAI de Referência.
 * Princípios de código limpo (Clean Code) e boas práticas de desenvolvimento;
 * Gestão de projetos de software através de metodologias ágeis.
 
-## Tecnologias e Ferramentas
+## 💻 Tecnologias e Ferramentas
 
 * **Front-End:** HTML5, CSS3, JavaScript (ES6+);
 * **Back-End & Banco de Dados:** Node.js, SQL (PostgreSQL/MySQL);
