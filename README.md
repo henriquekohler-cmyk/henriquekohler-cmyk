@@ -1,5 +1,7 @@
 # Henrique Jean Köhler
 
+<img width="1600" height="533" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/aa475650-41cc-4fe5-aae0-83ac0b9f3c92" />
+
 Olá! Sou estudante da 3ª Série do Ensino Médio no SESI SENAI de Referência. Atualmente em Joinville, SC. Cursando Desenvolvimento de Sistemas e tenho grande interesse no desenvolvimento Front-End e Back-End, Lógica de Programação e Designer Gráfico.
 
 > "Sem disciplina, o talento não serve pra nada."
