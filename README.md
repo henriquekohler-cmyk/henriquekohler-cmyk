@@ -17,5 +17,7 @@ Olá! Sou estudante da 3ª Série do Ensino Médio no SESI SENAI de Referência 
 * **Ambientes de Desenvolvimento (IDEs):** Visual Studio Code (VS Code)
 
 ## 📬 Contato
-* **E-mail:** [henrique.kohler@estudante.sesisenai.org.br](mailto:henrique.kohler@estudante.sesisenai.org.br) *(Substitua pelo seu e-mail de preferência)*
-* **GitHub:** [github.com/HenriqueKohler](https://github.com/HenriqueKohler)
+* **E-mail:** [henriquekohler64@gmail.com]
+* **GitHub:** [github.com/HenriqueKohler]
+* **Portfólio:** [https://sites.google.com/estudante.sesisenai.org.br/portfolio-henrique-jean-kohler/in%C3%ADcio]
+* **Linkedin:** [www.linkedin.com/in/henrique-kohler-605857260]
