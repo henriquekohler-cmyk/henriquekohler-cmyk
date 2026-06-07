@@ -7,16 +7,18 @@ Olá! Sou estudante da 3ª Série do Ensino Médio no SESI SENAI de Referência.
 ---
 
 ## 🚀 O que estou aprendendo agora
-* Desenvolvimento de Sistemas focado em Front-End e Back-End (Full Stack).
-* Construção de interfaces web modernas, dinâmicas e responsivas.
-* Lógica de programação aplicada e estruturas de dados essenciais.
-* Princípios de código limpo (Clean Code) e boas práticas de desenvolvimento.
+* Desenvolvimento de Sistemas focado em Front-End e Back-End (Full Stack);
+* Construção de interfaces web modernas, dinâmicas e responsivas;
+* Lógica de programação aplicada e estruturas de dados essenciais;
+* Princípios de código limpo (Clean Code) e boas práticas de desenvolvimento;
 * Gestão de projetos de software através de metodologias ágeis.
 
 ## 🛠️ Tecnologias
-* **Linguagens de Programação:** HTML, CSS, JavaScript.
-* **Ferramentas & Controle de Versão:** Git, GitHub.
-* **Ambientes de Desenvolvimento (IDEs):** Visual Studio Code (VS Code).
+* **Front-End:** HTML5, CSS3, JavaScript (ES6+);
+* **Back-End & Banco de Dados:** Node.js, SQL (PostgreSQL/MySQL);
+* **Controle de Versão:** Git, GitHub;
+* **Ambientes de Desenvolvimento:** Visual Studio Code (VS Code);
+* **Sistemas Operacionais & Terminais:** Windows, Terminal Linux/Bash básico.
 
 ## 📬 Meus Contatos
 * **E-mail:** [henriquekohler64@gmail.com]
