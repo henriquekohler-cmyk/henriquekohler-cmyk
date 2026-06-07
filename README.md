@@ -22,6 +22,12 @@ Olá! Sou estudante da 3ª Série do Ensino Médio no SESI SENAI de Referência.
 * **Ambientes de Desenvolvimento:** Visual Studio Code (VS Code);
 * **Sistemas Operacionais & Terminais:** Windows, Terminal Linux/Bash básico.
 
+### Front-End
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+
+### Back-End & Bancos de Dados
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=flat-square&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white)
+
 ### Controle de Versão & Ambientes
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
